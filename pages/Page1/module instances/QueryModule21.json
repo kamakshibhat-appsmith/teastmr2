@@ -1,19 +1,20 @@
 {
   "packageUUID": "aa8ba5a8-1f8c-4ba7-8754-063949dc4679",
-  "moduleUUID": "1c05018c-43f0-4e81-b2a3-4040783b9a94",
-  "type": "JS_MODULE",
+  "moduleUUID": "56958cdf-c157-4db3-888a-02f43626de74",
+  "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.3",
-    "name": "JSModule11",
+    "name": "QueryModule21",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
+    "moduleInputs": {},
     "jsonPathKeys": [],
     "isValid": true,
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_JSModule11",
+  "id": "Page1_QueryModule21",
   "deleted": false,
-  "gitSyncId": "66744fdc460698006f9d9a75_a787db2c-9a93-4252-8e89-470e63d115e7"
+  "gitSyncId": "667452d9460698006f9d9b54_53dba953-1665-4b03-a58a-e442b4053269"
 }

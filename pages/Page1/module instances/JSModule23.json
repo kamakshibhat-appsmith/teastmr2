@@ -1,10 +1,10 @@
 {
   "packageUUID": "aa8ba5a8-1f8c-4ba7-8754-063949dc4679",
-  "moduleUUID": "1c05018c-43f0-4e81-b2a3-4040783b9a94",
+  "moduleUUID": "8ffaf698-4f84-402d-ba45-69a99a7915a9",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.3",
-    "name": "JSModule11",
+    "name": "JSModule23",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
@@ -13,7 +13,7 @@
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_JSModule11",
+  "id": "Page1_JSModule23",
   "deleted": false,
-  "gitSyncId": "66744fdc460698006f9d9a75_a787db2c-9a93-4252-8e89-470e63d115e7"
+  "gitSyncId": "667452d9460698006f9d9b54_94ef7cac-195c-4794-acb2-db36be9a5350"
 }
